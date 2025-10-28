@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 
-st.set_page_config(page_title="Quotation & Invoice Generator", page_icon="💼", layout="centered")
+st.set_page_config(page_title="Quotation & Invoice Generator", page_icon="", layout="centered")
 
 st.title("Quotation & Invoice Generator")
 st.write("Fill out the details below to create a quotation or invoice.")
